@@ -1,0 +1,23 @@
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.list li {
+    margin: 15px;
+}
+
+.navegacion {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    border-bottom: 1px solid #000;
+}
+
+.logo {
+    height: 99px;
+}
